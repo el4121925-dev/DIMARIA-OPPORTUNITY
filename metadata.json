@@ -1,0 +1,6 @@
+{
+  "name": "DIMARIA OPPORTUNITY",
+  "description": "Toutes les opportunités du monde à portée de main : emplois, travail à distance, micro-tâches, business, bourses, formations et assistant IA par DIMARIA COMPANY.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
